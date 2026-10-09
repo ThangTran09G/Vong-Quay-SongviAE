@@ -1,0 +1,21 @@
+{
+  "names": [
+    "thắng",
+    "giang",
+    "tuấn",
+    "nam"
+  ],
+  "winners": [
+    {
+      "name": "tuấn",
+      "round": 1,
+      "time": "2026-10-09T13:56:02.161Z"
+    }
+  ],
+  "lastWinner": {
+    "name": "tuấn",
+    "round": 1,
+    "time": "2026-10-09T13:56:02.161Z"
+  },
+  "round": 1
+}
